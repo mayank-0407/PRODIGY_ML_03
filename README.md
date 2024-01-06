@@ -4,7 +4,7 @@ Welcome to the Cat vs Dog Image Classifier project! This project utilizes Suppor
 # Installation
 
 Clone the repository: https://github.com/mayank-0407/PRODIGY_ML_03/
-# Dataset Information
+# Dataset Used
 
 Our model is trained on a dataset consisting of 25,000 labeled cat and dog images collected from Kaggle. It serves as a comprehensive foundation for training and evaluating the model's performance.
 
